@@ -14,6 +14,7 @@
 		6154F4FF2C681D40006AF090 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 6154F4FE2C681D40006AF090 /* Base */; };
 		6154F5072C681E40006AF090 /* ColorsTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6154F5062C681E40006AF090 /* ColorsTableVC.swift */; };
 		6154F5092C682189006AF090 /* ColorsDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6154F5082C682188006AF090 /* ColorsDetailVC.swift */; };
+		617B897E2C6846920021CA80 /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617B897D2C6846920021CA80 /* UIColor+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6154F5002C681D40006AF090 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6154F5062C681E40006AF090 /* ColorsTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableVC.swift; sourceTree = "<group>"; };
 		6154F5082C682188006AF090 /* ColorsDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsDetailVC.swift; sourceTree = "<group>"; };
+		617B897D2C6846920021CA80 /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				6154F4F42C681D3E006AF090 /* SceneDelegate.swift */,
 				6154F5062C681E40006AF090 /* ColorsTableVC.swift */,
 				6154F5082C682188006AF090 /* ColorsDetailVC.swift */,
+				617B897D2C6846920021CA80 /* UIColor+Ext.swift */,
 				6154F4F82C681D3E006AF090 /* Main.storyboard */,
 				6154F4FB2C681D40006AF090 /* Assets.xcassets */,
 				6154F4FD2C681D40006AF090 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				6154F5072C681E40006AF090 /* ColorsTableVC.swift in Sources */,
 				6154F5092C682189006AF090 /* ColorsDetailVC.swift in Sources */,
+				617B897E2C6846920021CA80 /* UIColor+Ext.swift in Sources */,
 				6154F4F32C681D3E006AF090 /* AppDelegate.swift in Sources */,
 				6154F4F52C681D3E006AF090 /* SceneDelegate.swift in Sources */,
 			);

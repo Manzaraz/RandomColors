@@ -20,7 +20,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" id="P0m-xn-A3e">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="ColorCell" id="P0m-xn-A3e">
                                         <rect key="frame" x="0.0" y="50" width="393" height="43.666667938232422"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="P0m-xn-A3e" id="7P5-oz-Rx4">
@@ -38,7 +38,7 @@
                         <viewLayoutGuide key="safeArea" id="MSl-87-qrv"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstAttribute="bottom" secondItem="1Up-xe-Y09" secondAttribute="bottom" id="2tL-Sl-b5d"/>
+                            <constraint firstAttribute="bottom" secondItem="1Up-xe-Y09" secondAttribute="bottom" id="MU6-t3-Oby"/>
                             <constraint firstItem="1Up-xe-Y09" firstAttribute="top" secondItem="NOa-do-gVZ" secondAttribute="top" id="ZgU-v5-ORy"/>
                             <constraint firstItem="1Up-xe-Y09" firstAttribute="leading" secondItem="NOa-do-gVZ" secondAttribute="leading" id="pQH-wj-F4W"/>
                             <constraint firstAttribute="trailing" secondItem="1Up-xe-Y09" secondAttribute="trailing" id="rx1-Rp-fKj"/>
